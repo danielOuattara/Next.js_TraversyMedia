@@ -1,0 +1,4 @@
+
+npm i -g serve
+
+serve -s out -p 8000
